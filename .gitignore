@@ -1,0 +1,6 @@
+emails.txt
+chrome_profile/
+user_data/
+.vscode/
+chromedriver.exe
+__pycache__/
