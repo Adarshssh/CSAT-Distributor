@@ -1,8 +1,0 @@
-2025/09/05-04:34:38.833 16a0 Reusing MANIFEST C:\Users\adars\Desktop\CSATS\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/09/05-04:34:38.843 16a0 Recovering log #4
-2025/09/05-04:34:38.844 16a0 Level-0 table #6: started
-2025/09/05-04:34:39.417 16a0 Level-0 table #6: 22420 bytes OK
-2025/09/05-04:34:39.417 16a0 Recovering log #6
-2025/09/05-04:34:39.421 16a0 Reusing old log C:\Users\adars\Desktop\CSATS\chrome_profile\Default\Local Storage\leveldb/000006.log 
-2025/09/05-04:34:39.496 16a0 Delete type=0 #4
-2025/09/05-04:34:39.496 16a0 Delete type=2 #7
