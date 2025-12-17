@@ -1,0 +1,6 @@
+2025/09/28-11:44:42.066 2c04 Creating DB C:\Users\adars\Desktop\CSATS\user_data\lisvet.51_expltain.com\Default\IndexedDB\https_account.xiaomi.com_0.indexeddb.leveldb since it was missing.
+2025/09/28-11:44:42.166 2c04 Reusing MANIFEST C:\Users\adars\Desktop\CSATS\user_data\lisvet.51_expltain.com\Default\IndexedDB\https_account.xiaomi.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/28-11:44:42.289 4b84 Level-0 table #5: started
+2025/09/28-11:44:42.307 4b84 Level-0 table #5: 753 bytes OK
+2025/09/28-11:44:42.320 4b84 Delete type=0 #3
+2025/09/28-11:44:42.321 2c04 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
