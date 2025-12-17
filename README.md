@@ -87,7 +87,7 @@ CSAT-Chat-Automation/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-github-username>/CSAT-Chat-Automation.git
+git clone https://github.com/<Adarshssh>/CSAT-Chat-Automation.git
 cd CSAT-Chat-Automation
 ```
 
